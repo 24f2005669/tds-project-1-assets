@@ -1,0 +1,6 @@
+{
+  "prompt": "A single, cinematic, high-contrast, professional photograph of a colossal, crystalline glass structure suspended in a dark, atmospheric void. Perspective: Eye-level, macro lens detail. The structure is composed of many parallel, razor-sharp transparent crystalline shards. Each individual shard is a clear diagonal line sloping STEEPLY UPWARD from left to right. However, the shards are stacked and staggered in a rhythmic, cascading descending sequence, such that the collective, overall jagged silhouette of the entire mass slopes SHARPLY DOWNWARD from the top-left of the frame to the bottom-right. No text, no charts, no labels, no icons. Cold, dramatic studio lighting. 1024x1024 minimum.",
+  "model": "DALL-E 3",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Parallel crystalline shards each slope upward locally, but are staggered in a downward cascade. The viewer experiences a structural contradiction where every individual component signals an 'ascent' while the collective mass signals a 'descent.'"
+}
