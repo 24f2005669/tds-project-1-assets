@@ -1,0 +1,6 @@
+{
+  "prompt": "A hyper-realistic, vertical-perspective photograph looking down into a terrifyingly deep, ancient circular stone well. A thick, heavy, industrial hemp rope is secured at the top and descends into the abyss. At the top of the frame, the rope is thick, weathered, and strong. As it descends into the increasing darkness, the rope visibly and steadily thins out, its fibers fraying and becoming translucent, until it tapers into a singular, ghostly thread and finally vanishes into the dark void before reaching the bottom. No text, no diagrams, no icons, cinematic lighting, atmospheric fog, professional photography, 8k resolution, extreme detail on stone textures and rope fibers. square aspect ratio. 1024px minimum.",
+  "model": "DALL-E 3",
+  "concept": "vanishing gradients",
+  "metaphor": "A rope thinning as it descends deeper into a well represents the signal (gradient) losing strength and eventually vanishing as it backpropagates through deep neural network layers."
+}

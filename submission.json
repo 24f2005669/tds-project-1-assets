@@ -1,0 +1,7 @@
+{
+  "prompt": "A single, visually stunning image of a massive hourglass made of ancient, cracked, blue-veined ice. In the top bulb, the ice is weeping and melting, with giant droplets falling through the neck. In the bottom bulb, there is no ice, only a deep, rising pool of dark, turbulent seawater. Background: stark Southern Ocean polar sky. No text, no labels, cinematic lighting, realistic water physics, professional photography style, macro lens detail on ice cracks, 8k resolution.",
+  "model": "DALL-E 3",
+  "dataset_name": "NASA Vital Signs - Ice Sheets (Antarctic Ice Loss)",
+  "dataset_url": "https://climate.nasa.gov/vital-signs/ice-sheets/",
+  "insight": "Antarctica is losing approximately 150 billion metric tons of ice per year, causing sea levels to rise at an accelerating rate—represented as the melting sands of time turning into a rising tide."
+}
